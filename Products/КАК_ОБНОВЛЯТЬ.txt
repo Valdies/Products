@@ -1,0 +1,18 @@
+Структура репозитория Valdies/Products (ветка по умолчанию, обычно main):
+
+Products/
+  README.md              (необязательно, просто описание)
+  Sensus/
+    Sensus.apk           (сам установочный файл)
+    version.json         (описание последней версии)
+
+Новый релиз:
+1. В Sensus\app\build.gradle увеличь versionCode и поменяй versionName.
+2. Запусти build.bat (на том же ПК, чтобы подпись совпала).
+3. Загрузи в Sensus/ новый Sensus.apk и обнови version.json:
+   versionCode должен совпадать с build.gradle, changes - текст в окне обновления.
+4. Не меняй имя папки Sensus и имена файлов: приложение ищет их по адресу
+   https://raw.githubusercontent.com/Valdies/Products/HEAD/Sensus/version.json
+   Репозиторий должен быть публичным.
+
+Проверка: открой эту ссылку в браузере, должен показаться текст version.json.
