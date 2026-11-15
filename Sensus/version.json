@@ -1,6 +1,6 @@
 {
-    "versionCode":  6,
-    "versionName":  "2.3.1",
+    "versionCode":  7,
+    "versionName":  "2.3.2",
     "url":  "https://raw.githubusercontent.com/Valdies/Products/HEAD/Sensus/Sensus.apk",
-    "changes":  "\\xEF\\xBB\\xBFА вам не похуй."
+    "changes":  "Доделал уведомления"
 }
