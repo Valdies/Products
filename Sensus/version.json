@@ -1,6 +1,6 @@
 {
-    "versionCode":  9,
-    "versionName":  "2.3.4",
+    "versionCode":  10,
+    "versionName":  "2.3.5",
     "url":  "https://raw.githubusercontent.com/Valdies/Products/HEAD/Sensus/Sensus.apk",
-    "changes":  "Добавлена предложка"
+    "changes":  "- Инструкция при первом запуске и окно «Что нового» после каждого обновления (повторно: шестерёнка → «Как пользоваться»)\r\n- «Пригласить друга»: приложение отправляется файлом (работает без GitHub и VPN), коды приглашений, баллы и звания\r\n- Кнопка «Наш Telegram-канал» в настройках"
 }
