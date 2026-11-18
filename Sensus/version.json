@@ -1,6 +1,6 @@
 {
-    "versionCode":  12,
-    "versionName":  "2.3.7",
-    "url":  "https://github.com/Valdies/Products/releases/download/sensus-v2.3.7/Sensus.apk",
-    "changes":  "- Браузер в Sensus (вкладка «Интеграции»): открываешь трек на YouTube, в Spotify или Яндекс Музыке, нажимаешь плавающую кнопку «P», подтверждаешь ссылку галочкой, и музыка качается в фоне\r\n- «Поделиться» в оригинальном YouTube, Spotify и Яндекс Музыке: выбери «Sensus: скачать», и загрузка начнётся сама\r\n- Spotify и Яндекс Музыка: берётся название трека, а звук ищется на YouTube (пока только отдельные треки)\r\n- Настройки → «Обновить загрузчик (yt-dlp)» на случай, если YouTube что-то поменяет\r\n- Инструкция при первом запуске и окно «Что нового» после обновления\r\n- Кнопка «Наш Telegram-канал» в настройках"
+    "versionCode":  13,
+    "versionName":  "2.3.8",
+    "url":  "https://github.com/Valdies/Products/releases/download/sensus-v2.3.8/Sensus.apk",
+    "changes":  ""
 }
